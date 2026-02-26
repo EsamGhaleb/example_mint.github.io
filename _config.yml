@@ -1,5 +1,5 @@
-# Jekyll workshop-template evanwill
-# https://github.com/evanwill/workshop-template
+# Jekyll MINT_first evanwill
+# https://github.com/evanwill/MINT_first
 # based on minima theme https://github.com/jekyll/minima
 
 # Notes: 
@@ -8,7 +8,7 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: MINT_first
 # description and keywords for meta tags
 description: "Create an OER workshop website quick and easy!"
 keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
@@ -19,7 +19,7 @@ pub_year: 2018
 github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/evanwill/MINT_first"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
